@@ -83,6 +83,7 @@ $ns run
 # OUTPUT
 
 
+![e61](https://github.com/user-attachments/assets/80de3631-9852-4978-9d2c-a1121e4819ed)
 
 
 # RESULT
